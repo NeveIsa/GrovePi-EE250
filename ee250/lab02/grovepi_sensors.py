@@ -37,4 +37,4 @@ if __name__ == '__main__':
 
         print(grovepi.ultrasonicRead(PORT))
 	print ("EE250 Session 1 Complete")
-    print("Hello EE250 Lab02 Session 2")
+    	print("Hello World")
