@@ -36,4 +36,4 @@ if __name__ == '__main__':
         time.sleep(0.2)
 
         print(grovepi.ultrasonicRead(PORT))
-	print ("EE250")
+	print ("EE250 Session 1")
